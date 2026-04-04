@@ -48,7 +48,6 @@ To transition into a **Data Analyst / Data Scientist / Data Engineer role** by b
 
 I have been **upskilling daily since January 2026**, and I continuously update this repository with new problems and solutions.
 
-Consistency > Motivation 🔁
 
 ---
 
@@ -59,7 +58,6 @@ Consistency > Motivation 🔁
 * Excel
 * Tableau
 * Power BI
-* Data Analytics (in progress)
 
 ---
 
