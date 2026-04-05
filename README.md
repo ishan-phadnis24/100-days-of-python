@@ -1,4 +1,4 @@
-# 🐍 Python Daily Practice Journey
+#  Python Daily Practice Journey
 
 Welcome to my Python practice repository 🚀
 
